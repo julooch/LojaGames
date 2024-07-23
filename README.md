@@ -10,4 +10,4 @@ Este é um projeto de backend desenvolvido em Java usando o framework Spring Boo
 ## Como Executar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/lojadegames.git
+   git clone https://github.com/julooch/lojadegames.git
